@@ -28,7 +28,22 @@
   }   
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 510px) {
+  .lead__title {
+    margin-top: 48px;
+    font-size: 55px;
+    line-height: 50px;
+  }   
+}
+
+@media screen and (max-width: 405px) {
+  .lead__title {
+    font-size: 46px;
+    line-height: 48px;
+  }   
+}
+
+@media screen and (max-width: 345px) {
   .lead__title {
     margin-top: 48px;
     max-width: 288px;
