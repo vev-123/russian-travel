@@ -16,6 +16,7 @@
   .places {
     max-width: 720px;
     margin-top: 88px;
+    gap: 73px;
   }   
 }
 
@@ -23,5 +24,6 @@
   .places {
     max-width: 320px;
     margin-top: 64px;
+    gap: 50px;
   }   
 }
